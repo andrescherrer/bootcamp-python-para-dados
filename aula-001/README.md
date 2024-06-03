@@ -11,3 +11,8 @@ print("Bom dia!")
 ```
 
 
+### 2) input()
+
+```
+input('Digite seu nome: ')
+```

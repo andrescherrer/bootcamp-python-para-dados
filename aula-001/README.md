@@ -2,8 +2,12 @@
 
 Revisão de Python
 
-## Comandos iniciais
+### Comandos iniciais
+
+### 1) print()
 
 ```
 print("Bom dia!")
 ```
+
+

@@ -1,5 +1,12 @@
 # Aula de Boas Vindas!
 
+## Limpando dependências
+
+```
+pip freeze | grep -v "^-e" | xargs pip uninstall -y
+```
+
+
 ## Criando um projeto do zero
 
 Criar pasta do projeto

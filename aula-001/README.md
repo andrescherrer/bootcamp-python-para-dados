@@ -1,18 +1,10 @@
-# Aula 001
+# Desafio do dia: Cálculo de Bônus com Entrada do Usuário
 
-Revisão de Python
+Escreva um programa em Python que solicita ao usuário para digitar seu nome, o valor do seu salário mensal e o valor do bônus que recebeu. O programa deve, então, imprimir uma mensagem saudando o usuário pelo nome e informando o valor do salário em comparação com o bônus recebido.
 
-### Comandos iniciais
+Cálculo de Bônus com Entrada do Usuário
+O cálculo do KPI de 2024 é de 1000 + salário * bônus 
 
-### 1) print()
+kpi = 1000 + salario * bonus
 
-```
-print("Bom dia!")
-```
-
-
-### 2) input()
-
-```
-input('Digite seu nome: ')
-```
+saída = nome: valor do bônus = valor

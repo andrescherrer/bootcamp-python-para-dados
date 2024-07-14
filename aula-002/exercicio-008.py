@@ -1,4 +1,4 @@
-# exercicio-007.py.
+# exercicio-008.py.
 
 print("Cálculo de Potência:")
 

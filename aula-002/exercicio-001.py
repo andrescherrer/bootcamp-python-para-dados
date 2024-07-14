@@ -1,4 +1,4 @@
-print("Escreva um programa que soma dois números inteiros inseridos pelo usuário.")
+# Escreva um programa que soma dois números inteiros inseridos pelo usuário.
 
 n1 = int(input("Digite um número inteiro:"))
 n2 = int(input("Digite outro número inteiro:"))

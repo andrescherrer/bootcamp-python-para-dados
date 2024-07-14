@@ -12,7 +12,7 @@
 - [X] Crie um programa que calcule a média de dois números flutuantes fornecidos pelo usuário.
 - [X] Desenvolva um programa que calcule a potência de um número (base e expoente fornecidos pelo usuário).
 - [X] Faça um programa que converta a temperatura de Celsius para Fahrenheit.
-- [ ] Escreva um programa que calcule a área de um círculo, recebendo o raio como entrada.
+- [X] Escreva um programa que calcule a área de um círculo, recebendo o raio como entrada.
 
 ### Strings (str)
 - [ ] Escreva um programa que receba uma string do usuário e a converta para maiúsculas.
